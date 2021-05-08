@@ -1,9 +1,3 @@
-![build](https://img.shields.io/github/workflow/status/cowboy-bebug/app-store-scraper/Build)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cowboy-bebug/app-store-scraper/pulls)
-[![PyPI](https://img.shields.io/pypi/v/app-store-scraper)](https://pypi.org/project/app-store-scraper/)
-![downloads](https://img.shields.io/pypi/dm/app-store-scraper)
-![license](https://img.shields.io/pypi/l/app-store-scraper)
-![code style](https://img.shields.io/badge/code%20style-black-black)
 
 ```
    ___                _____ _                   _____
